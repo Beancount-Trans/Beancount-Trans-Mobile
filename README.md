@@ -2,7 +2,7 @@
 
 > 看清自己的钱，再做决定。
 
-财见是 [Beancount-Trans](https://github.com/dhr2333/Beancount-Trans) 旗下的个人财务分析移动端。它基于你的财务账本，帮助你在行动之前看清现金流、支出结构与财务趋势。
+财见是 [Beancount-Trans](https://github.com/Beancount-Trans/Beancount-Trans) 旗下的个人财务分析移动端。它基于你的财务账本，帮助你在行动之前看清现金流、支出结构与财务趋势。
 
 ## 与 Beancount-Trans 的关系
 

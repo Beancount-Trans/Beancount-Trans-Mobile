@@ -48,7 +48,7 @@ pipeline {
         FLUTTER_VERSION = '3.47.4'
 
         // GitHub 配置
-        GITHUB_REPO = 'dhr2333/Beancount-Trans-Mobile'
+        GITHUB_REPO = 'Beancount-Trans/Beancount-Trans-Mobile'
         GITHUB_API_URL = 'https://api.github.com'
         // 沿用现有 GitHub Token 凭据
         GITHUB_CREDENTIALS_ID = '1b709f07-d907-4000-8a8a-2adafa6fc658'

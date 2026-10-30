@@ -27,7 +27,7 @@ class ApiConfig {
   /// 应用内更新的来源仓库（owner/repo）：Release 与 APK 附件都从这里获取。
   static const String releaseRepo = String.fromEnvironment(
     'RELEASE_REPO',
-    defaultValue: 'dhr2333/Beancount-Trans-Mobile',
+    defaultValue: 'Beancount-Trans/Beancount-Trans-Mobile',
   );
 
   /// 滚动构建 Release 的固定 tag：每次 main 提交都会更新它，应用内更新读它。

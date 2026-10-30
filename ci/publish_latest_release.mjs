@@ -25,7 +25,7 @@ import { existsSync, readFileSync, statSync } from 'node:fs';
 
 const API = 'https://api.github.com';
 const UPLOADS = 'https://uploads.github.com';
-const DEFAULT_REPO = 'dhr2333/Beancount-Trans-Mobile';
+const DEFAULT_REPO = 'Beancount-Trans/Beancount-Trans-Mobile';
 const DEFAULT_TAG = 'latest';
 const APK_CONTENT_TYPE = 'application/vnd.android.package-archive';
 

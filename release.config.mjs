@@ -10,7 +10,7 @@
 /** @type {import('semantic-release').GlobalConfig} */
 export default {
   branches: ['main'],
-  repositoryUrl: 'https://github.com/dhr2333/Beancount-Trans-Mobile',
+  repositoryUrl: 'https://github.com/Beancount-Trans/Beancount-Trans-Mobile',
   tagFormat: '${version}',
   plugins: [
     // @semantic-release/commit-analyzer 是 semantic-release 自带的依赖，无需在 package.json 声明
